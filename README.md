@@ -14,12 +14,37 @@ The primary goals of this project are as follows:
 
 * [ ] **Digital Document Generation, Editing, and Conversion:** Develop tools to generate, edit, and convert digital documents across various formats. This will streamline the document creation and editing process.
 
+## Applications
+
+> [!INFO]
+> The "Paperless Sri Lanka" platform can serve as the foundation for various applications that streamline document management and communication processes. Here are ten potential applications that are currently being built on top of the paperless_lk platform:
+
+* [ ] **Government Document Repository:** A centralized platform for government agencies to store, manage, and share digital documents securely, improving inter-agency collaboration and transparency.
+
+* [ ] **Digital Notary Service:** Offering digital notarization and authentication services for legal documents, contracts, and agreements, enhancing their validity and reducing paperwork.
+
+* [ ] **Education Portal:** A platform for educational institutions to manage digital documents, including student records, transcripts, and certificates, simplifying administrative tasks.
+
+* [ ] **Healthcare Records System:** A secure repository for healthcare providers to store and exchange patient records, medical histories, and test results while maintaining patient confidentiality.
+
+* [ ] **Corporate Document Management:** A comprehensive solution for businesses to manage internal documents, contracts, and employee records efficiently, leading to improved productivity and compliance.
+
+* [ ] **Legal Document Management:** An application tailored for law firms and legal professionals to organize, edit, and digitally sign legal documents, making legal processes more efficient.
+
+* [ ] **Media Publishing Hub:** Enabling media organizations to publish news articles, magazines, and other content digitally, with features for collaboration and content distribution.
+
+* [ ] **Real Estate Transactions:** Streamlining property transactions with digital contracts, deeds, and records, making the buying and selling process smoother and more transparent.
+
+* [ ] **Nonprofit Document Repository:** Supporting nonprofit organizations in managing donor records, grant applications, and compliance documents, aiding in fundraising and reporting.
+
+* [ ] **Event Management Platform:** An application for event planners and organizers to create, distribute, and manage event-related documents such as invitations, schedules, and attendee lists.
+
+These applications leverage the core features of the paperless_lk platform, such as digital document storage, signing, authentication, and sharing, to cater to specific industries and use cases, ultimately promoting a paperless and more efficient environment in Sri Lanka.
+
 ## Current Status
 
 > [!CAUTION]
-> Work in Progress!
-
-As of now, the project is in the early stages of development. We are actively working on bringing these features to life, and your contributions and feedback are highly welcome!
+> As of now, the project is in the early stages of development. We are actively working on bringing these features to life, and your contributions and feedback are highly welcome!
 
 ## How to Contribute
 
