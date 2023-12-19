@@ -2,6 +2,11 @@
 
 Welcome to the Paperless Sri Lanka project repository! This initiative aims to revolutionize how entities in Sri Lanka, both public and private, handle documentation by eliminating the need for physical paper documents. In today's digital age, going paperless offers numerous advantages, including increased efficiency, reduced environmental impact, and improved accessibility. 
 
+## Current Status
+
+> [!CAUTION]
+> As of now, the project is in the *early stages of development*. We are actively working on bringing these features to life, and your contributions and feedback are highly welcome!
+
 ## Project Goals
 
 The primary goals of this project are as follows:
@@ -40,11 +45,6 @@ The primary goals of this project are as follows:
 * [ ] **Event Management Platform:** An application for event planners and organizers to create, distribute, and manage event-related documents such as invitations, schedules, and attendee lists.
 
 These applications leverage the core features of the paperless_lk platform, such as digital document storage, signing, authentication, and sharing, to cater to specific industries and use cases, ultimately promoting a paperless and more efficient environment in Sri Lanka.
-
-## Current Status
-
-> [!CAUTION]
-> As of now, the project is in the *early stages of development*. We are actively working on bringing these features to life, and your contributions and feedback are highly welcome!
 
 ## How to Contribute
 
