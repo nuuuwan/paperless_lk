@@ -16,7 +16,7 @@ The primary goals of this project are as follows:
 
 ## Applications
 
-> [!INFO]
+> [!NOTE]
 > The "Paperless Sri Lanka" platform can serve as the foundation for various applications that streamline document management and communication processes. Here are ten potential applications that are currently being built on top of the paperless_lk platform:
 
 * [ ] **Government Document Repository:** A centralized platform for government agencies to store, manage, and share digital documents securely, improving inter-agency collaboration and transparency.
@@ -44,7 +44,7 @@ These applications leverage the core features of the paperless_lk platform, such
 ## Current Status
 
 > [!CAUTION]
-> As of now, the project is in the early stages of development. We are actively working on bringing these features to life, and your contributions and feedback are highly welcome!
+> As of now, the project is in the *early stages of development*. We are actively working on bringing these features to life, and your contributions and feedback are highly welcome!
 
 ## How to Contribute
 
